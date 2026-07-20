@@ -2,136 +2,40 @@
 
 # Aerial Intelligence and Robotics Lab
 
-### Researching Intelligent Aerial Systems from Perception to Autonomy
+### Intelligent Aerial Systems · Robotics · Autonomy
 
-Design · Perception · Planning · Control · Learning · Deployment
+*Advancing the Science and Engineering of Intelligent Aerial Systems.*
 
 </div>
 
 ---
 
-## About Us
+## About
 
-The **Aerial Intelligence and Robotics Lab (AIR Lab)** focuses on advancing intelligent aerial robotic systems through cutting-edge research in robotics, artificial intelligence, and autonomous systems.
+The **Aerial Intelligence and Robotics Lab (AIR Lab)** is dedicated to advancing the science and engineering of intelligent aerial robotic systems through interdisciplinary research in robotics, artificial intelligence, and autonomous systems.
 
-Our research spans the complete pipeline of aerial robotics, from mechanical design and perception to autonomous navigation, motion planning, optimal control, multi-agent collaboration, and real-world deployment.
+Our research focuses on developing aerial robots capable of perceiving, reasoning, planning, and acting autonomously in complex and dynamic environments. We investigate fundamental theories and practical technologies spanning aerial robot design, autonomous navigation, robot perception, motion planning, optimal control, robot learning, and multi-robot systems.
 
-We aim to bridge the gap between fundamental research and engineering applications by developing reliable, scalable, and intelligent robotic systems.
+By integrating algorithmic innovation with system-level engineering, AIR Lab bridges the gap between fundamental research and real-world deployment, enabling reliable, scalable, and intelligent robotic systems for future aerial applications.
 
 ---
 
 ## Research Areas
 
-- ✈️ Aerial Robot Design
-- 🤖 Autonomous Navigation
-- 🛰️ State Estimation & SLAM
-- 🧭 Motion Planning
-- 🎯 Optimal Control
-- 🧠 Robot Learning
-- 📷 Vision-Based Navigation
-- 🚁 UAV Swarm Systems
-- 🌐 Multi-Robot Collaboration
-- ⚡ Real-Time Robotic Systems
-
----
-
-## Current Projects
-
-- Autonomous UAV Navigation
-- Learning-based Motion Planning
-- UAV Swarm Coordination
-- Bio-inspired Flying Robots
-- Deformable Aerial Robots
-- Robot Operating System (ROS / ROS 2)
-- Simulation & Digital Twin
-- Real-world Flight Validation
-
----
-
-## Open Source
-
-This organization maintains open-source projects related to
-
-- Robotics
-- Autonomous Flight
-- ROS / ROS2
+- Aerial Robotics
+- Autonomous Navigation
+- Robot Perception & SLAM
 - Motion Planning
 - Optimal Control
-- Reinforcement Learning
-- Robot Simulation
-- UAV Systems
-
----
-
-## Technology Stack
-
-### Languages
-
-- C++
-- Python
-- CUDA
-
-### Frameworks
-
-- ROS
-- ROS 2
-- PX4
-- MAVROS
-
-### Simulation
-
-- Isaac Sim
-- Gazebo
-- AirSim
-
-### Tools
-
-- Linux
-- Docker
-- Git
-- GitHub Actions
-
----
-
-## Mission
-
-Build intelligent aerial robotic systems that can
-
-- Perceive
-- Plan
-- Learn
-- Navigate
-- Collaborate
-- Deploy
-
-from simulation to the real world.
-
----
-
-## Join Us
-
-We welcome
-
-- Undergraduate Students
-- Graduate Students
-- Research Assistants
-- Engineers
-- Visiting Researchers
-
-who are passionate about robotics and autonomous aerial systems.
-
----
-
-## Contact
-
-📧 wm_ubuntu@nju.edu.cn
+- Robot Learning
+- Multi-Robot Systems
+- UAV Swarm Intelligence
+- Intelligent Autonomous Systems
 
 ---
 
 <div align="center">
 
-**Aerial Intelligence and Robotics Lab**
-
-*"Exploring the Future of Intelligent Flight."*
+**Researching Intelligent Aerial Systems from Perception to Autonomy.**
 
 </div>
